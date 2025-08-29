@@ -1,4 +1,4 @@
-# Python-Contact-Management-Software
+# Python Contact Management Software
 
 ContactEase Solutions aims to simplify the management of phone contacts for its users by developing an intuitive and interactive software that optimizes the organization and access to personal information.
 
